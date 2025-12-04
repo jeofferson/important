@@ -1,0 +1,5 @@
+Here is how to login Astrill:
+1. Open Astrill and press CTRL+J, and then input the following command.
+https://magic1.info/ .
+2. Open PowerShell as run Administrator and the following command.
+netsh interface ipv4 set subinterface "Ethernet" mtu=1350 store=persistent

@@ -1,0 +1,110 @@
+<job description>
+</job description> 
+Write formally. First say hello. In second sentence, make the sentence What is important in this project. And then say experience which you developed software same or similar to this before with 1~2 sentences. How to implement this project and how long it will take  with 1~2 sentences. And then at the end, 
+write that I'll do my best and
+say "I'm looking forward to your response. Thank you for reading."
+
+
+
+<Job Description>
+
+</Job Description>
+<Skills>
+</Skills>
+<My Project>
+<My Project>
+<Requirement>
+1. Analyze the job description.
+2. Write a cover letter with 4-5 sentences.
+ - The cover letter should not resemble something written by an AI bot, such as ChatGPT. It should appear to be written by a real person.
+ - If the cover letter is too long, the client will find it boring. Please write it clearly and simply.
+ - Include technical questions related to the job description or project requirements.
+ - Answer questions briefly.
+</Requirement>
+<Style>
+Hello,
+Describe yourself using the keywords and tech stacks listed in the job description.
+Include 1-2 projects you've worked on as well as your relevant skills and experience.
+Explain briefly why you are interested in this particular job and you're the best fit for your project.
+If you have any questions about the scope, please ask.
+If the task requirement is outlined in the job description, please provide an estimate.
+I look forward to hearing from you.
+Best regards,
+</Style>
+
+
+
+
+<Job Description>
+</Job Description>
+<Requirement>
+1. Analyze the job description.
+2. Write a cover letter with 5-6 sentences.
+- The cover letter should not resemble something written by an AI bot, such as ChatGPT. It should appear to be written by a real person.
+- If the cover letter is too long, the client will find it boring. Please write it clearly and simply.
+- make shorter all sentences.
+- Include technical questions related to the job description or project requirements.
+- Answer questions shorter briefly.
+- Analyze the job description and then identify the most critical issues that need to be implement this job in this project.
+  Then, present the client with a two- to three-sentence implement way (including the relevant technology stack, if necessary) that solve these issues.
+</Requirement>
+<Style> 	
+Hello,
+Describe yourself using the keywords and tech stacks listed in the job description.
+Describe the implement way.
+If you have any questions about the scope, please ask.
+I look forward to hearing from you.
+Thank you.
+Claudio Lee
+</Style>
+Hi everyone. I gonna share my workana bid template for chatgpt. I hope it can be helpful to you.
+
+
+
+
+<>
+<project>
+{
+We are seeking a specialist partner to develop and implement advanced automations in WhatsApp using Artificial Intelligence.
+I own a marketing agency and want to add AI services to our sales portfolio, so I'm looking for an outsourcing partner.
+Proven experience with the n8n platform for orchestrating and integrating different services and APIs is essential, ensuring a robust and scalable solution. The freelancer will be responsible for:
+- Analyzing automation requirements and designing the solution architecture.
+- Developing and configuring AI to understand and respond to common queries in WhatsApp.
+- Implementing and managing automation flows in n8n, connecting WhatsApp to other tools and systems.
+- Performing testing and optimizations to ensure smooth operation and performance of automations.
+- Providing technical documentation and initial support for the solution's operation.
+We are looking for someone with strong technical knowledge and the ability to propose innovative solutions to automation challenges.
+}
+</project>
+I going to make bid sentences.
+This is your task.
+<task>
+1. Analyze the goals to be achieved using the job description.
+2. Search the internet for the technologies and solutions required to complete this task.
+3. Write written with a shorter bid.
+- Your bid should consist of approximately five or more professional sentences.
+- Use the following style:
+- Your bid should be written in very simple, informal English.
+- Include experience with all the technologies listed in the requirements in the first sentence.
+- You should deeply understand the requirements and provide guidelines and key challenges to achieving them.
+</task>
+<style>
+ Hello,
+ I am a full-stack developer with extensive experience in this field. Briefly describe how you utilized the technologies required to complete this task.
+ Describe logically how you achieved the requirements outlined in the job description in similar projects.
+ ...Based on research into implemented solutions, explain in a concise, logical, and user-friendly manner how you solved the problem using cutting-edge technologies.
+ Briefly describe the economic efficienty of this project.
+ if you interested, let's discuss in more detail.
+ Thank you.
+</style>
+Make the best professional one for upwork bid.
+</>
+
+
+
+
+
+
+
+
+

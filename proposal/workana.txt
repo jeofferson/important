@@ -1,0 +1,18 @@
+<project>
+</project>
+Revisit your study.
+It should follow this format:
+First, analyze the job description.
+Second, begin your cover letter with the following sentence:
+"Hello, I'm a developer with 7 years of experience.
+What you're looking for is…
+Note: If the client requests a URL in the job description, you should include it.
+Third, combine your business direction and technical solution to address the job description in 2-3 sentences.
+The above introduction should be sent to the client. So, please write it in a formal manner.
+Conclude your cover letter with the following sentence:
+"I look forward to hearing from you." Thank you."
+Example: Development direction:
+Instead of writing it like this, write it in an explanatory format.
+Answer the following questions logically:
+1. State the information needed to start working.
+2. Explain why you are a good fit for this position.
